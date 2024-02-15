@@ -21,6 +21,9 @@
     <ClCompile Include="Weather.cpp">
       <Filter>Исходные файлы</Filter>
     </ClCompile>
+    <ClCompile Include="JsonService.hpp">
+      <Filter>Файлы заголовков</Filter>
+    </ClCompile>
     <ClCompile Include="JsonService.cpp">
       <Filter>Исходные файлы</Filter>
     </ClCompile>
