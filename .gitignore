@@ -1,7 +1,3 @@
-.vs/WeatherService/v17/Browse.VC.opendb
-./x64
+.vs/
+x64/
 Debug/
-<<<<<<< HEAD
-=======
-.vs/WeatherService/v17/Browse.VC.opendb
->>>>>>> feature-json
