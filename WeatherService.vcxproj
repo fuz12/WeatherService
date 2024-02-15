@@ -127,11 +127,13 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="weather.cpp" />
+    <ClCompile Include="JsonService.cpp" />
+    <ClCompile Include="Weather.cpp" />
     <ClCompile Include="main.cpp" />
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="weather.hpp" />
+    <ClInclude Include="Service.hpp" />
+    <ClInclude Include="Weather.hpp" />
   </ItemGroup>
   <ItemGroup>
     <None Include=".gitignore" />
