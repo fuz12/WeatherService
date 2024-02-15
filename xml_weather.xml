@@ -17,6 +17,6 @@
     <clouds value="100" name="overcast clouds"/>
     <visibility value="133"/>
     <precipitation value="1.15" mode="rain" unit="1h"/>
-    <weather number="501" value="Rain" icon="10d"/>
+    <weather number="501" value="дождь" icon="10d"/>
     <lastupdate value="2023-03-26T15:39:53"/>
 </current>

@@ -137,12 +137,15 @@
   <ItemGroup>
     <ClCompile Include="JsonService.cpp" />
     <ClCompile Include="JsonService.hpp" />
+    <ClCompile Include="packages\pugixml-1.14\src\pugixml.cpp" />
     <ClCompile Include="Weather.cpp" />
     <ClCompile Include="main.cpp" />
+    <ClCompile Include="XmlService.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Service.hpp" />
-    <ClInclude Include="Weather.hpp" />
+    <ClInclude Include="XmlService.hpp" />
+    <ClInclude Include="packages\pugixml-1.14\src\pugixml.hpp" />
   </ItemGroup>
   <ItemGroup>
     <None Include=".gitignore" />
