@@ -1,16 +1,2 @@
-<<<<<<< HEAD
-﻿  JsonService.cpp
-  JsonService.hpp
-  main.cpp
-  Создание кода...
-  LINK : не найден или не выполнена сборка E:\Important\ВУЗ\Введение в профессию\4. git\WeatherService\x64\Debug\WeatherService.exe при последней инкрементной компоновке; выполняется полная компоновка
-x64\Debug\JsonService.obj : warning LNK4042: объект указан более одного раза; лишние не учитываются
-=======
-﻿  pugixml.cpp
-  Weather.cpp
-  main.cpp
-  XmlService.cpp
-  Создание кода...
-  LINK : не найден или не выполнена сборка E:\Important\ВУЗ\Введение в профессию\4. git\WeatherService\x64\Debug\WeatherService.exe при последней инкрементной компоновке; выполняется полная компоновка
->>>>>>> feature-xml
+﻿  main.cpp
   WeatherService.vcxproj -> E:\Important\ВУЗ\Введение в профессию\4. git\WeatherService\x64\Debug\WeatherService.exe
