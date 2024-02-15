@@ -1,0 +1,22 @@
+<current>
+    <city id="548408" name="Киров">
+        <coord lon="49.6601" lat="58.5966"/>
+        <country>RU</country>
+        <timezone>10800</timezone>
+        <sun rise="2023-03-26T03:44:30" set="2023-03-26T16:29:05"/>
+    </city>
+    <temperature value="5.69" min="5.69" max="5.69" unit="celsius"/>
+    <feels_like value="2.56" unit="celsius"/>
+    <humidity value="100" unit="%"/>
+    <pressure value="998" unit="hPa"/>
+    <wind>
+        <speed value="4.27" unit="m/s" name="Calm"/>
+        <gusts value="11.57"/>
+        <direction value="171" code="S" name="South"/>
+    </wind>
+    <clouds value="100" name="overcast clouds"/>
+    <visibility value="133"/>
+    <precipitation value="1.15" mode="rain" unit="1h"/>
+    <weather number="501" value="Rain" icon="10d"/>
+    <lastupdate value="2023-03-26T15:39:53"/>
+</current>
